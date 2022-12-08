@@ -7,3 +7,5 @@
 // npm install -g nodemon
 
 // nodemom server.js
+
+// npm run start-dev
